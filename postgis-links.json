@@ -1,4 +1,4 @@
-links = [
+[
     "https://postgis.net/docs/box2d_type.html",
     "https://postgis.net/docs/box3d_type.html",
     "https://postgis.net/docs/geometry.html",
